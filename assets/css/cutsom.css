@@ -73,10 +73,11 @@ color: #1f1f1f;
 #hero .carousel-control-prev, 
 #hero .carousel-control-next{
     width:10%;
+    background-color: #000;
 }
 #hero .carousel-control-next-icon,
 #hero .carousel-control-prev-icon{
-    background:none;
+    background:#000;
     font-size:48px;
     line-height:1;
     width:auto;
